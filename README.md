@@ -14,11 +14,12 @@ In your linux environment, do the following:
 5. Git clone this template INTO THE SAME FOLDER where you cloned open62541 in the previous step
 6. Open the Open62541_template folder in vscode
 7. Navigate to the CMake panel on the left and click Launch
-   ![Skärmbild 2024-10-11 162604](https://github.com/user-attachments/assets/d460efe1-8346-4530-be3a-918a0c0b22f5)
-8. The server should be running now and you will see output similar to this
+   ![image](https://github.com/user-attachments/assets/99da29b9-c890-4df9-9166-c0a4c706bc51)
+
+9. The server should be running now and you will see output similar to this
    ![image](https://github.com/user-attachments/assets/e077cc0c-206a-4fd4-82bf-52595743ea8b)
 
-9. Press Ctrl + C in the terminal window in vscode to stop the server. You should see an output similar to this
+10. Press Ctrl + C in the terminal window in vscode to stop the server. You should see an output similar to this
   ![image](https://github.com/user-attachments/assets/be698acc-5eff-4f99-8f34-0a73e208a029)
 
 
