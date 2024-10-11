@@ -1,11 +1,11 @@
 # How to run the code
 
-In order to run this code you need to have a Linux envitonment. This can be achieved by:
-- Having a Linux as your or OS
+In order to run this code you need to have a Linux environment. This can be achieved by:
+- Having a Linux as your OS
 - Installing WSL on Windows
 - Running a Linux VM
 
-In your linux envorinment, do:
+In your linux environment, do the following:
 
 1. Make sure you have all the necessary tools installed. You can run ```sudo apt-get install git build-essential gcc pkg-config cmake python``` in the terminal to install them
 2. Get [vscode](https://code.visualstudio.com/download), if you don't have it already. If you are running on WSL, DO NOT install vscode directly in your WSL. Instead, open vscode in windows and add the [WSL extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) to it
